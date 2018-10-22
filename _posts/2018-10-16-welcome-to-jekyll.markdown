@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vipul Kumar"
+title:  "Vipul "
 date:   2018-10-16 05:41:01 +0000
 categories: jekyll update
 ---
