@@ -5,23 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vipul</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abhaya+Libre">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aclonica">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
-    <link rel="stylesheet" href="assets/css/Features-Blue.css">
-    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
-    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
-    <link rel="stylesheet" href="assets/css/Header-Blue.css">
-    <link rel="stylesheet" href="assets/css/Header-Dark.css">
-    <link rel="stylesheet" href="assets/css/Highlight-Blue.css">
-    <link rel="stylesheet" href="assets/css/Highlight-Clean.css">
-    <link rel="stylesheet" href="assets/css/Projects-Horizontal.css">
-    <link rel="stylesheet" href="assets/css/Social-Icons.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
 </head>
 
 <body>
@@ -222,8 +213,8 @@
     </div>
     <div class="social-icons"><a href="#"><i class="icon ion-social-github"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i></a></div>
     <script
-        src="assets/js/jquery.min.js"></script>
-        <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
