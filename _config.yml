@@ -4,48 +4,217 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Preview and Export</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/user.css">
+    <title>Vipul</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abhaya+Libre">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aclonica">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
 </head>
 
 <body>
-    <div class="container">
-        <header><img src="assets/img/logo.svg">
-            <h1>Bootstrap Studio</h1>
-            <p class="lead text-center text-muted">Preview and Export</p>
-        </header>
-        <hr>
-        <p class="text-center text-info intro">Bootstrap Studio has two powerful features - Preview and Export, with which you can test your design in real time across multiple browsers, and export your work as a beautiful stand-alone website.</p>
-        <hr>
-        <section class="content">
-            <h2 class="text-uppercase text-center"> Preview</h2>
-            <p class="text-left">Bootstrap Studio has a powerful feature called <strong>Preview.</strong> With it, you can open your design in multiple web browsers and devices, and every change you make within the app will be shown instantaneously everywhere.&nbsp;Here is
-                how to start it:</p>
-            <ol>
-                <li>Hit the <strong>Preview</strong> button from the Main toolbar.&nbsp; </li>
-                <li>In the dialog that is shown, hit <strong>Enable Preview</strong> and copy one of the URLs. </li>
-                <li>Open this URL on the devices/browsers that you wish to test. This URL is only available in your local network and can't be seen from outside.&nbsp; </li>
-            </ol>
-            <figure><img class="img-thumbnail" src="assets/img/preview and export buttons.png"></figure>
-            <figure><img class="img-thumbnail" src="assets/img/preview dialog.png"></figure>
-            <p class="text-left">Now you can experiment with a design and test it at the same time. No need to switch to a web browser and hit the refresh button, which is a great productivity increase. </p>
-            <p class="text-left">In a team setting, Preview is a great tool for collecting feedback from colleagues.</p>
-        </section>
-        <section class="content">
-            <h2 class="text-uppercase text-center">Exporting </h2>
-            <p class="text-left">Once you are happy with a design, you can export it into regular HTML+CSS. Just hit the <strong>Export</strong> button and choose a folder on your computer. Bootstrap Studio will generate a number of files which are a perfect representation
-                of your design.</p>
-            <figure><img class="img-thumbnail" src="assets/img/export options.png"></figure>
-            <p class="text-left">You can also choose to minify your JS and CSS, or to use CDN versions of jQuery, Bootstrap and the icon fonts for extra performance.</p>
-            <p class="text-left">For the technically minded folks, there is also the option for configuring an <strong>Export Script</strong>. You point it to an <em>executable</em> file (can be a bash script, an exe program or anything else that can be run from a terminal),
-                and it will be run whenever you export your design. You can use it for post processing the resulting code. The export destination path is passed as arg 1.</p>
-            <p class="text-left">After you hit the Export button, Bootstrap Studio exports your design as clean and well-structured HTML. It looks as if a professional front end developer had written it by hand!</p>
-        </section>
-        <hr>
+    <div>
+        <div class="header-blue">
+            <nav class="navbar navbar-dark navbar-expand-md navigation-clean-search">
+                <div class="container"><a class="navbar-brand" href="#">Vipul Kumar</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse"
+                        id="navcol-1">
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item" role="presentation"><a class="nav-link active" href="#"></a></li>
+                        </ul>
+                        <form class="form-inline mr-auto" target="_self">
+                            <div class="form-group"><label for="search-field"></label><input class="form-control search-field" type="search" name="search" id="search-field"></div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+            <div class="container hero">
+                <div class="row no-gutters">
+                    <div class="col-12 col-lg-6 col-xl-5 offset-xl-1">
+                        <h1 class="text-center text-warning bg-white" style="font-size:42px;"><strong>Vipul Kumar</strong></h1>
+                        <p class="text-uppercase text-center text-white bg-warning">BE-CSE(2015-19) <br>Chandigarh University <br>Mohali, Punjab</p>
+                    </div>
+                    <div class="col-md-5 col-lg-5 offset-lg-1 offset-xl-0 d-none d-lg-block phone-holder">
+                        <div class="iphone-mockup"></div><img class="img-thumbnail device" src="assets/img/WhatsApp Image 2018-07-20 at 00.06.59.jpeg" style="background-color:#282d32;"></div>
+                </div>
+            </div>
+        </div>
     </div>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <div class="highlight-clean" style="background-color:rgb(243,245,247);">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-capitalize text-center bg-warning" style="font-family:'Source Sans Pro', sans-serif;">Educational Qualification</h2>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th class="invisible" style="color:rgb(253,254,255);"></th>
+                        <th class="table-active" style="margin:0px;">Year</th>
+                        <th class="table-active">Course</th>
+                        <th class="table-active">Insitute</th>
+                        <th class="table-active">CGPA/Percentage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="invisible">Text</td>
+                        <td>2015-19</td>
+                        <td>BE-CSE</td>
+                        <td>Chandigarh University, Mohali</td>
+                        <td>8.81</td>
+                        <td class="invisible">8.81</td>
+                    </tr>
+                    <tr>
+                        <td class="invisible">Text</td>
+                        <td>2015</td>
+                        <td>12th</td>
+                        <td>Kendriya Vidyalaya No. 1, Bikaner</td>
+                        <td>85%</td>
+                        <td class="invisible">85%</td>
+                    </tr>
+                    <tr>
+                        <td class="invisible">Text</td>
+                        <td>2013</td>
+                        <td>10th</td>
+                        <td>Kendriya Vidyalaya No. 1, Bikaner<br><br></td>
+                        <td>9.4</td>
+                        <td class="invisible">9.4</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div></div>
+    <div class="features-blue">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">Worked With</h2>
+            </div>
+            <div class="row features">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/C-C-3.png" height="130dp" style="height:150px;width:250px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/why-java-is-top-featured.png" width="250dp" height="130dp" style="height:150px;width:250px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img src="assets/img/1_u_Jr6FozmyMCi3pe9ZsoFg.png" width="250" style="padding:0px;height:150px;width:250px;">
+                    <div class="progress" style="width:245px;height:10px;margin:5px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/image1a.png" style="height:210px;width:250px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/firebase_logo_shot.png" style="height:210px;width:250px;">
+                    <div class="carousel slide" data-ride="carousel" id="carousel-1">
+                        <div class="carousel-inner" role="listbox"></div>
+                        <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-slide="next"><span class="sr-only">Next</span></a></div>
+                        <ol
+                            class="carousel-indicators"></ol>
+                    </div>
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/mongo-db-logo.png" style="height:210px;width:250px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row features">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/IntelliJ_IDEA_Logo.svg.png" style="margin:0px;width:250px;height:210px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item" style="width:250px;height:200px;"><img class="img-thumbnail" src="assets/img/netbeans-image.png" style="height:210px;width:250px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/1_9sL-ooE5f8Z4ANBRen_sdA.png" style="height:210px;width:250px;margin:4px;">
+                    <div class="progress" style="height:10px;margin:5px;width:245px;">
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div></div>
+    <div></div>
+    <div class="projects-horizontal">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center">PROJECTS</h2>
+                <p class="text-center"></p>
+            </div>
+            <div class="card">
+                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="float-right" src="assets/img/trotteuse.png" style="background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title">Trotteuse</h4>
+                    <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Android, Android Studio, Firebase, Various libraries and API’s<br></h6>
+                    <p class="card-text">An android application for buying and selling used things which provides several options for the above. It is confined within the college as to ease and minimize the distance between buyer and seller. Successfully running in the university
+                        campus.<br><br></p><a class="card-link float-left" href="#">github.com</a></div>
+                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/images.jpeg" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title">Foxmusic</h4>
+                    <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Python, Django Framework, PyCharm<br><br></h6>
+                    <p class="card-text">A Django framework based website which helps in storing music and sharing it with your friends online. With personalized account you can create your playlist and mark favorite with authentication.<br><br></p><a class="card-link float-left"
+                        href="#">github.com</a></div>
+                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/safeguard_large.jpg.png" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title">Pdf Converter with encryption and email<br></h4>
+                    <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Java, NetBeans, JavaMail API, AES Algorithm, itext Library<br><br></h6>
+                    <p class="card-text">A text file to pdf converter, this software also provides additional services like encrypting the data using AES algorithm and later that pdf file can be sent via email with just one click. <br><br></p><a class="card-link float-left"
+                        href="#">github.com</a></div>
+                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/dxzc.jpg" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title">Live Resume&nbsp;</h4>
+                    <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Jekyll, Github, bootstrap Studio.<br><br></h6>
+                    <p class="card-text">Personal resume site for displaying all the credentials of a resume with an innovative displaying style. It covers the need of a resume and also look smart and saves the user of always carrying a hardcopy of the resume.<br></p><a class="card-link float-left"
+                        href="#">github.com</a></div>
+            </div>
+        </div>
+    </div>
+    <div class="highlight-blue" style="background-color:#184e8e;">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center bg-warning">Extra Curricular Activities</h2>
+            </div>
+            <ul>
+                <li><strong>Contributor </strong>author in an <strong>International Anthology</strong>.<br></li>
+                <li><strong>Coordinated </strong>National Creativity and aptitude in University.<br></li>
+                <li><strong>3rd </strong>rank in Android Development, CU Fest<br></li>
+                <li><strong>3rd </strong>rank in Geeks Test an Inter Department Computer Science Test.<br></li>
+                <li><strong>Coordinated </strong>Inter-University IOT event.<br></li>
+            </ul>
+            <div class="buttons"></div>
+        </div>
+    </div>
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 item text">
+                        <h3>Vipul Kumar</h3>
+                        <p>Mail: vipul.dhingrra@gmail.com <br>Skype: vipul.dhingrra</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <div class="social-icons"><a href="#"><i class="icon ion-social-github"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i></a></div>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
