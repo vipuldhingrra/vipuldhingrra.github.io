@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vipul</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abhaya+Libre">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aclonica">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
     <link rel="stylesheet" href="assets/css/styles.min.css">
 </head>
 
@@ -63,26 +65,26 @@
                 <tbody>
                     <tr>
                         <td class="invisible">Text</td>
-                        <td>2015-19</td>
-                        <td>BE-CSE</td>
-                        <td>Chandigarh University, Mohali</td>
-                        <td>8.81</td>
+                        <td style="color:#282d32;"><em>2015-19</em></td>
+                        <td style="color:#282d32;"><em>BE-CSE</em></td>
+                        <td style="color:#282d32;"><em>Chandigarh University, Mohali</em></td>
+                        <td style="color:#282d32;"><em>8.81</em></td>
                         <td class="invisible">8.81</td>
                     </tr>
                     <tr>
                         <td class="invisible">Text</td>
-                        <td>2015</td>
-                        <td>12th</td>
-                        <td>Kendriya Vidyalaya No. 1, Bikaner</td>
-                        <td>85%</td>
+                        <td style="color:#282d32;"><em>2015</em></td>
+                        <td style="color:#282d32;"><em>12th</em></td>
+                        <td style="color:#282d32;"><em>Kendriya Vidyalaya No. 1, Bikaner</em></td>
+                        <td style="color:#282d32;"><em>85</em>%</td>
                         <td class="invisible">85%</td>
                     </tr>
                     <tr>
                         <td class="invisible">Text</td>
-                        <td>2013</td>
-                        <td>10th</td>
-                        <td>Kendriya Vidyalaya No. 1, Bikaner<br><br></td>
-                        <td>9.4</td>
+                        <td style="color:#282d32;"><em>2013</em></td>
+                        <td style="color:#282d32;"><em>10th</em></td>
+                        <td style="color:#282d32;"><em>Kendriya Vidyalaya No. 1, Bikaner</em><br><br></td>
+                        <td style="color:#282d32;"><em>9.4</em></td>
                         <td class="invisible">9.4</td>
                     </tr>
                 </tbody>
@@ -93,30 +95,30 @@
     <div class="features-blue">
         <div class="container">
             <div class="intro">
-                <h2 class="text-center">Worked With</h2>
+                <h2 class="text-center"><em>Worked With</em></h2>
             </div>
             <div class="row features">
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/C-C-3.png" height="130dp" style="height:150px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/C-C-3.png" height="130dp" data-bs-hover-animate="pulse" style="height:150px;width:250px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"><span class="sr-only">75%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/why-java-is-top-featured.png" width="250dp" height="130dp" style="height:150px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/why-java-is-top-featured.png" width="250dp" height="130dp" data-bs-hover-animate="pulse" style="height:150px;width:250px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"><span class="sr-only">80%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img src="assets/img/1_u_Jr6FozmyMCi3pe9ZsoFg.png" width="250" style="padding:0px;height:150px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img src="assets/img/1_u_Jr6FozmyMCi3pe9ZsoFg.png" width="250" data-bs-hover-animate="pulse" style="padding:0px;height:150px;width:250px;">
                     <div class="progress" style="width:245px;height:10px;margin:5px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"><span class="sr-only">65%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/image1a.png" style="height:210px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/image1a.png" data-bs-hover-animate="pulse" style="height:210px;width:250px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"><span class="sr-only">85%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/firebase_logo_shot.png" style="height:210px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/firebase_logo_shot.png" data-bs-hover-animate="pulse" style="height:210px;width:250px;">
                     <div class="carousel slide" data-ride="carousel" id="carousel-1">
                         <div class="carousel-inner" role="listbox"></div>
                         <div><a class="carousel-control-prev" href="#carousel-1" role="button" data-slide="prev"><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#carousel-1" role="button" data-slide="next"><span class="sr-only">Next</span></a></div>
@@ -124,29 +126,29 @@
                             class="carousel-indicators"></ol>
                     </div>
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"><span class="sr-only">70%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/mongo-db-logo.png" style="height:210px;width:250px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/mongo-db-logo.png" data-bs-hover-animate="pulse" style="height:210px;width:250px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;"><span class="sr-only">65%</span></div>
                     </div>
                 </div>
             </div>
             <div class="row features">
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/IntelliJ_IDEA_Logo.svg.png" style="margin:0px;width:250px;height:210px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/IntelliJ_IDEA_Logo.svg.png" data-bs-hover-animate="pulse" style="margin:0px;width:250px;height:210px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"><span class="sr-only">70%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item" style="width:250px;height:200px;"><img class="img-thumbnail" src="assets/img/netbeans-image.png" style="height:210px;width:250px;">
+                <div class="col-sm-6 col-md-4 item" style="width:250px;height:200px;"><img class="img-thumbnail" src="assets/img/netbeans-image.png" data-bs-hover-animate="pulse" style="height:210px;width:250px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 87%;"><span class="sr-only">87%</span></div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/1_9sL-ooE5f8Z4ANBRen_sdA.png" style="height:210px;width:250px;margin:4px;">
+                <div class="col-sm-6 col-md-4 item"><img class="img-thumbnail" src="assets/img/1_9sL-ooE5f8Z4ANBRen_sdA.png" data-bs-hover-animate="pulse" style="height:210px;width:250px;margin:4px;">
                     <div class="progress" style="height:10px;margin:5px;width:245px;">
-                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"><span class="sr-only">75%</span></div>
                     </div>
                 </div>
             </div>
@@ -157,37 +159,44 @@
     <div class="projects-horizontal">
         <div class="container">
             <div class="intro">
-                <h2 class="text-center">PROJECTS</h2>
+                <h2 class="text-center"><em>PROJECTS</em></h2>
                 <p class="text-center"></p>
             </div>
             <div class="card">
-                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="float-right" src="assets/img/trotteuse.png" style="background-color:#ffcc1e;">
-                    <h4 class="text-capitalize text-danger card-title">Trotteuse</h4>
+                <div class="card-body" data-bs-hover-animate="pulse" style="background-color:#f0f0f0;margin:20px 0px;"><img class="float-right" src="assets/img/trotteuse.png" style="background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title"><strong><em>Trotteuse</em></strong></h4>
                     <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Android, Android Studio, Firebase, Various libraries and API’s<br></h6>
                     <p class="card-text">An android application for buying and selling used things which provides several options for the above. It is confined within the college as to ease and minimize the distance between buyer and seller. Successfully running in the university
-                        campus.<br><br></p><a class="card-link float-left" href="#">github.com</a></div>
-                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/images.jpeg" style="width:192px;height:192px;background-color:#ffcc1e;">
-                    <h4 class="text-capitalize text-danger card-title">Foxmusic</h4>
+                        campus.<br><br></p><a class="card-link float-left" href="#"></a></div>
+                <div class="card-body" data-bs-hover-animate="pulse" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/images.jpeg" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title"><strong><em>Foxmusic</em></strong></h4>
                     <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Python, Django Framework, PyCharm<br><br></h6>
                     <p class="card-text">A Django framework based website which helps in storing music and sharing it with your friends online. With personalized account you can create your playlist and mark favorite with authentication.<br><br></p><a class="card-link float-left"
-                        href="#">github.com</a></div>
-                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/safeguard_large.jpg.png" style="width:192px;height:192px;background-color:#ffcc1e;">
-                    <h4 class="text-capitalize text-danger card-title">Pdf Converter with encryption and email<br></h4>
+                        href="#"><i class="fa fa-github"></i>&nbsp;: https://github.com/vipuldhingrra/FoxMusic</a></div>
+                <div class="card-body" data-bs-hover-animate="pulse" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/jctodo_logo_color.png" style="width:192px;height:192px;background-color:#c8ced7;">
+                    <h4 class="text-capitalize text-danger card-title"><strong><em>TO-DO</em></strong></h4>
+                    <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: java, Java Applets, Netbeans, JavaMail aPI<br><br></h6>
+                    <p class="card-text">With the help of this software one can create, delete and send TO-DO list to the employees of the companys with ease. It helps in keeping and allocating work in a sorted manner. It helps the manager in distributing work.<br></p>
+                    <a
+                        class="card-link float-left" href="#">https://github.com/vipuldhingrra/TO-DOList</a>
+                </div>
+                <div class="card-body" data-bs-hover-animate="pulse" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/safeguard_large.jpg.png" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title"><strong><em>Pdf Converter with encryption and email</em></strong><br></h4>
                     <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Java, NetBeans, JavaMail API, AES Algorithm, itext Library<br><br></h6>
                     <p class="card-text">A text file to pdf converter, this software also provides additional services like encrypting the data using AES algorithm and later that pdf file can be sent via email with just one click. <br><br></p><a class="card-link float-left"
-                        href="#">github.com</a></div>
-                <div class="card-body" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/dxzc.jpg" style="width:192px;height:192px;background-color:#ffcc1e;">
-                    <h4 class="text-capitalize text-danger card-title">Live Resume&nbsp;</h4>
+                        href="#"><i class="fa fa-github"></i>&nbsp;https://github.com/vipuldhingrra/PDFConverter</a></div>
+                <div class="card-body" data-bs-hover-animate="pulse" style="background-color:#f0f0f0;margin:20px 0px;"><img class="img-thumbnail float-right" src="assets/img/dxzc.jpg" style="width:192px;height:192px;background-color:#ffcc1e;">
+                    <h4 class="text-capitalize text-danger card-title"><strong><em>Live Resume&nbsp;</em></strong></h4>
                     <h6 class="text-truncate text-uppercase text-info card-subtitle mb-2">Technology Stack: Jekyll, Github, bootstrap Studio.<br><br></h6>
                     <p class="card-text">Personal resume site for displaying all the credentials of a resume with an innovative displaying style. It covers the need of a resume and also look smart and saves the user of always carrying a hardcopy of the resume.<br></p><a class="card-link float-left"
-                        href="#">github.com</a></div>
+                        href="#"><i class="fa fa-github"></i>&nbsp;https://github.com/vipuldhingrra/vipuldhingrra.github.io</a></div>
             </div>
         </div>
     </div>
     <div class="highlight-blue" style="background-color:#184e8e;">
         <div class="container">
             <div class="intro">
-                <h2 class="text-center bg-warning">Extra Curricular Activities</h2>
+                <h2 class="text-center bg-warning"><em>Extra Curricular Activities</em></h2>
             </div>
             <ul>
                 <li><strong>Contributor </strong>author in an <strong>International Anthology</strong>.<br></li>
@@ -204,17 +213,32 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 item text">
-                        <h3>Vipul Kumar</h3>
-                        <p>Mail: vipul.dhingrra@gmail.com <br>Skype: vipul.dhingrra</p>
+                        <ul>
+                            <li style="font-size:15px;"></li>
+                            <li style="font-size:15px;">Official Contacts</li>
+                            <li style="font-size:15px;">&nbsp;<i class="fa fa-google"></i>&nbsp; : <strong>vipul.dhingrra@gmail.com</strong></li>
+                            <li style="font-size:15px;">&nbsp;<i class="icon ion-social-github"></i>&nbsp; :&nbsp;<a href="https://github.com/vipuldhingrra">vipuldhingrra</a><br></li>
+                            <li style="font-size:15px;">&nbsp;<i class="icon ion-social-linkedin"></i>&nbsp; :&nbsp;<a href="https://www.linkedin.com/in/vipuldhingrra/">vipuldhingrra</a><br></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <ul>
+                            <li style="font-size:15px;"></li>
+                            <li style="font-size:15px;">Social Contacts</li>
+                            <li style="font-size:15px;">&nbsp;<i class="icon ion-social-whatsapp-outline"></i>&nbsp; : +91-8875647842</li>
+                            <li style="font-size:15px;">&nbsp;<i class="fa fa-instagram"></i>&nbsp; : vipul_dhingra_</li>
+                            <li style="font-size:15px;">&nbsp;<i class="fa fa-facebook-square"></i>&nbsp; : vipul.kumar.965</li>
+                            <li></li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </footer>
     </div>
-    <div class="social-icons"><a href="#"><i class="icon ion-social-github"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-instagram-outline"></i><i class="icon ion-social-instagram-outline"></i></a><a href="#"><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i><i class="icon ion-social-linkedin"></i></a></div>
-    <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/script.min.js"></script>
 </body>
 
 </html>
